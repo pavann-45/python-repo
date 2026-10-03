@@ -10,10 +10,10 @@
 
 ## Student Details
 
-- **Name:** Kiran Husenappa Agasadavar
-- **SRN:** R25EV017
+- **Name:** Pavan Badakali
+- **SRN:** R25EV034
 - **Section:** R&AI
-- **GitHub:** [@KiranHA-tech](https://github.com/KiranHA-tech)
+- **GitHub:** [@pavann-45](https://github.com/pavann-45)
 
 ## About This Repository
 
